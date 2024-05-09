@@ -5,6 +5,9 @@
 
 namespace Player
 {
+
+    class PlayerController;
+    class UI::UIElement::ImageView;
     class PlayerView
     {
     private:
