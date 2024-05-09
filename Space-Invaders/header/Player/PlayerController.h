@@ -7,6 +7,11 @@
 
 namespace Player
 {
+    class PlayerView;
+    class PlayerModel;
+
+    enum class PlayerState;
+
     class PlayerController : public Collision::ICollider
     {
     private:
