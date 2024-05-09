@@ -1,4 +1,8 @@
 # SME-Assignment
+
+content writing link
+https://hollow-vicuna-4b3.notion.site/Designing-the-Weapon-System-Architecture-for-the-FPS-Game-e6cc413d55dc4db383ac66f68d631863?pvs=4
+
 step 1
 Add Include and lib folder and update bin folder
 
